@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="brandicon-sns-a" x1="44.319%" x2="84.036%" y1="35.915%" y2="58.308%">
+      <stop offset="0%" stop-color="#E53121"/>
+      <stop offset="100%" stop-color="#C22C1A"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-b" x1=".564%" x2="100.236%" y1="32.932%" y2="89.203%">
+      <stop offset="0%" stop-color="#DCDAEE"/>
+      <stop offset="100%" stop-color="#8F88C0"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-c" x1="92.586%" x2="-21.747%" y1="62.882%" y2="44.858%">
+      <stop offset="0%" stop-color="#7B73B3"/>
+      <stop offset="100%" stop-color="#C6C2E2"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-d" x1="102.488%" x2="-.623%" y1="94.627%" y2="-.248%">
+      <stop offset="0%" stop-color="#6C62A8"/>
+      <stop offset="100%" stop-color="#CBCAE6"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-e" x1="20.375%" x2="65.918%" y1="25.497%" y2="122.167%">
+      <stop offset="0%" stop-color="#E53121"/>
+      <stop offset="100%" stop-color="#A62714"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-f" x1="3.023%" x2="105.781%" y1=".398%" y2="101.576%">
+      <stop offset="0%" stop-color="#E84D2C"/>
+      <stop offset="100%" stop-color="#811F08"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-g" x1="42.69%" x2="79.787%" y1="-13.035%" y2="110.867%">
+      <stop offset="0%" stop-color="#F3F2F9"/>
+      <stop offset="100%" stop-color="#BBB7DB"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-h" x1="-48.58%" x2="76.456%" y1="45.337%" y2="53.996%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#BBB7DB"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-i" x1="16.239%" x2="100.097%" y1="49.266%" y2="89.526%">
+      <stop offset="0%" stop-color="#FFF098"/>
+      <stop offset="100%" stop-color="#FFD530"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-j" x1="6.936%" x2="123.555%" y1="23.461%" y2="58.101%">
+      <stop offset="0%" stop-color="#F4A286"/>
+      <stop offset="100%" stop-color="#E53121"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-k" x1="-21732.412%" x2="-21271.415%" y1="-43051.7%" y2="-42230.9%">
+      <stop offset="0%" stop-color="#F4A286"/>
+      <stop offset="100%" stop-color="#E53121"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-l" x1="-3.435%" x2="89.135%" y1="39.882%" y2="61.385%">
+      <stop offset="0%" stop-color="#4464AC"/>
+      <stop offset="100%" stop-color="#1D3584"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-m" x1="1.229%" x2="101.223%" y1="23.138%" y2="23.138%">
+      <stop offset="0%" stop-color="#4464AC"/>
+      <stop offset="37.3%" stop-color="#2F4B97"/>
+      <stop offset="72.8%" stop-color="#223B89"/>
+      <stop offset="100%" stop-color="#1D3584"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-n" x1="-5.096%" x2="105.55%" y1="23.557%" y2="74.1%">
+      <stop offset="0%" stop-color="#5B62A2"/>
+      <stop offset="15.2%" stop-color="#4C579A"/>
+      <stop offset="48.2%" stop-color="#31438C"/>
+      <stop offset="77.6%" stop-color="#213783"/>
+      <stop offset="100%" stop-color="#1B3380"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-o" x1="49.796%" x2="57.081%" y1=".684%" y2="102.773%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#DAD8ED"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-p" x1="-22.888%" x2="117.861%" y1="38.375%" y2="61.318%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#D1CEE8"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-q" x1="7.403%" x2="96.183%" y1="13.965%" y2="56.648%">
+      <stop offset="0%" stop-color="#D1CEE8"/>
+      <stop offset="100%" stop-color="#7B73B3"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-r" x1="-2.17%" x2="60.882%" y1=".055%" y2="89.19%">
+      <stop offset="0%" stop-color="#E53121"/>
+      <stop offset="100%" stop-color="#B02916"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-s" x1="-1.261%" x2="103.142%" y1="105.473%" y2="-.552%">
+      <stop offset="0%" stop-color="#E53121"/>
+      <stop offset="100%" stop-color="#9D2511"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-t" x1="40.615%" x2="105.875%" y1="42.057%" y2="95.756%">
+      <stop offset="0%" stop-color="#F5B0AC"/>
+      <stop offset="100%" stop-color="#EF8495"/>
+    </linearGradient>
+    <linearGradient id="brandicon-sns-u" x1="1.279%" x2="101.267%" y1="23.102%" y2="23.102%">
+      <stop offset="0%" stop-color="#F5B0AC"/>
+      <stop offset="100%" stop-color="#EE788F"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="32" height="32" fill="#EBF1F7"/>
+    <g transform="translate(4 4)">
+      <path fill="#FFF" fill-rule="nonzero" d="M23.5781818,12 C23.580535,16.6820248 20.7621176,20.9043903 16.4372787,22.6980261 C12.1124397,24.4916619 7.1329831,23.5033004 3.82104324,20.193857 C0.509103376,16.8844136 -0.483012614,11.9057036 1.30736156,7.57951343 C3.09773574,3.25332321 7.31797479,0.43172273 12,0.430545455 C15.0695675,0.429387928 18.0138733,1.64765886 20.1852036,3.81735252 C22.356534,5.98704617 23.5770247,8.9304325 23.5781818,12 Z"/>
+      <circle cx="12" cy="12" r="11.628" fill="#FFF" fill-rule="nonzero"/>
+      <polyline fill="url(#brandicon-sns-a)" fill-rule="nonzero" points="12 12 16.317 9.607 23.183 15.207 12 12"/>
+      <polygon fill="#E53121" fill-rule="nonzero" points="16.317 9.607 23.183 15.207 22.499 14.848 16.301 9.793"/>
+      <polygon fill="#F08465" fill-rule="nonzero" points="12 12 16.317 9.607 16.301 9.793 12.404 11.953"/>
+      <polygon fill="#B82B18" fill-rule="nonzero" points="23.183 15.207 12 12 12.404 11.953 22.499 14.848"/>
+      <polyline fill="#F5B0AC" fill-rule="nonzero" points="12 12 16.317 9.607 15.207 .816 12 12"/>
+      <polygon fill="#D47785" fill-rule="nonzero" points="15.2 .817 12 12 12.253 11.681 15.148 1.585"/>
+      <polygon fill="#D99E9B" fill-rule="nonzero" points="16.317 9.607 15.2 .816 15.142 1.585 16.15 9.527"/>
+      <polygon fill="#F9D1CD" fill-rule="nonzero" points="12 12 16.317 9.607 16.15 9.52 12.253 11.681"/>
+      <polyline points="12 12 14.393 16.317 8.8 23.183 12 12"/>
+      <polygon fill="#F9F9FC" fill-rule="nonzero" points="14.393 16.317 8.8 23.183 9.159 22.499 14.214 16.301"/>
+      <polygon fill="#F3F2F9" fill-rule="nonzero" points="12 12 14.393 16.317 14.207 16.301 12.047 12.404"/>
+      <polygon fill="#DCDAEE" fill-rule="nonzero" points="8.8 23.183 12 12 12.047 12.403 9.152 22.499"/>
+      <polyline fill="#2B2B85" fill-rule="nonzero" points="12 12 14.393 16.317 23.183 15.207 12 12"/>
+      <polygon fill="#484293" fill-rule="nonzero" points="23.183 15.207 12 12 12.319 12.253 22.415 15.148"/>
+      <polygon fill="#24236F" fill-rule="nonzero" points="14.393 16.317 23.183 15.207 22.415 15.148 14.479 16.15"/>
+      <polygon fill="#8F88C0" fill-rule="nonzero" points="12 12 14.393 16.317 14.479 16.15 12.319 12.253"/>
+      <polyline fill="url(#brandicon-sns-b)" fill-rule="nonzero" points="12 12 7.683 14.393 .817 8.8 12 12"/>
+      <polygon fill="#BBB7DB" fill-rule="nonzero" points="7.683 14.393 .817 8.8 1.501 9.158 7.7 14.214"/>
+      <polygon fill="#B0AAD4" fill-rule="nonzero" points="12 12 7.683 14.393 7.7 14.207 11.597 12.047"/>
+      <polygon fill="#D1CCE6" fill-rule="nonzero" points=".817 8.8 12 12 11.596 12.047 1.501 9.151"/>
+      <polyline fill="#FD0" fill-rule="nonzero" points="12 12 7.683 14.393 8.8 23.183 12 12"/>
+      <polygon fill="#DBBB85" fill-rule="nonzero" points="8.8 23.183 12 12 11.747 12.319 8.852 22.413"/>
+      <polygon fill="#EBC536" fill-rule="nonzero" points="7.683 14.393 8.8 23.183 8.86 22.413 7.85 14.473"/>
+      <polygon fill="#FFE167" fill-rule="nonzero" points="12 12 7.683 14.393 7.85 14.479 11.747 12.319"/>
+      <polyline fill="#E53121" fill-rule="nonzero" points="12 12 9.607 7.683 15.207 .817 12 12"/>
+      <polygon fill="#EA583C" fill-rule="nonzero" points="9.607 7.683 15.207 .817 14.849 1.501 9.793 7.7"/>
+      <polygon fill="#D42F1E" fill-rule="nonzero" points="12 12 9.607 7.683 9.793 7.699 11.953 11.596"/>
+      <polygon fill="#C22C1A" fill-rule="nonzero" points="15.2 .817 12 12 11.953 11.596 14.849 1.501"/>
+      <polyline fill="#F3F2F9" fill-rule="nonzero" points="12 12 9.607 7.683 .817 8.8 12 12"/>
+      <polygon fill="#F9F8FB" fill-rule="nonzero" points=".817 8.8 12 12 11.681 11.745 1.585 8.852"/>
+      <polygon fill="#DCDAEE" fill-rule="nonzero" points="9.607 7.683 .817 8.8 1.585 8.86 9.527 7.85"/>
+      <polygon fill="#F9F9FC" fill-rule="nonzero" points="12 12 9.607 7.683 9.527 7.85 11.687 11.745"/>
+      <path fill="url(#brandicon-sns-c)" fill-rule="nonzero" d="M20.3694545,3.91709091 C18.9507042,2.44494554 17.1669226,1.37537921 15.2,0.817454545 L16.3112727,9.60581818 L20.3636364,3.91709091 L20.3694545,3.91709091 Z"/>
+      <polygon fill="#8F88C0" fill-rule="nonzero" points="15.2 .817 16.311 9.607 16.415 9.193 15.372 .867 15.201 .817"/>
+      <polygon fill="#A59FCE" fill-rule="nonzero" points="20.26 3.805 16.42 9.187 16.317 9.601 20.371 3.911 20.26 3.799"/>
+      <path fill="url(#brandicon-sns-d)" fill-rule="nonzero" d="M20.3694545,3.91709091 C18.9507042,2.44494554 17.1669226,1.37537921 15.2,0.817454545 L15.4123636,1.20436364 C17.1747032,1.76042687 18.7731869,2.74149628 20.0669091,4.06109091 L20.3578182,3.91563636 L20.3694545,3.91709091 Z"/>
+      <path fill="url(#brandicon-sns-e)" fill-rule="nonzero" d="M16.3170909,9.60727273 L20.3694545,3.91709091 C21.7871974,5.38742863 22.7943091,7.20404143 23.2901818,9.18545455 L16.3170909,9.60727273 Z"/>
+      <polygon fill="#ED6F50" fill-rule="nonzero" points="20.371 3.917 16.317 9.607 16.631 9.433 20.479 4.032 20.371 3.917"/>
+      <polygon fill="#A62714" fill-rule="nonzero" points="23.251 9.031 16.631 9.433 16.317 9.607 23.29 9.185"/>
+      <path fill="url(#brandicon-sns-f)" fill-rule="nonzero" d="M22.9338182,9.04872727 C22.45036,7.27248089 21.5434909,5.63991684 20.2909091,4.29090909 L20.3650909,3.91854545 C21.7817889,5.38965553 22.7887368,7.20597294 23.2858182,9.18690909 L22.9294545,9.05018182 L22.9338182,9.04872727 Z"/>
+      <path fill="url(#brandicon-sns-g)" fill-rule="nonzero" d="M16.3170909,9.60727273 L23.2901818,9.18545455 C23.7862169,11.1670685 23.7490813,13.2446516 23.1825455,15.2072727 L16.3170909,9.60727273 Z"/>
+      <path fill="#D1CEE8" fill-rule="nonzero" d="M23.2901818,9.18545455 L16.3170909,9.60727273 L16.7229091,9.73672727 L23.3265455,9.33818182 C23.3149091,9.28727273 23.3032727,9.23636364 23.2901818,9.18545455 Z"/>
+      <path fill="#F3F2F9" fill-rule="nonzero" d="M23.1825455,15.2072727 C23.1985455,15.152 23.2130909,15.0967273 23.2276364,15.0429091 L16.7229091,9.73672727 L16.3170909,9.60727273 L23.1825455,15.2072727 Z"/>
+      <path fill="url(#brandicon-sns-h)" fill-rule="nonzero" d="M22.9643636,14.8276364 C23.4299087,13.0367906 23.446396,11.1587431 23.0123636,9.36 L23.2901818,9.18545455 C23.7862169,11.1670685 23.7490813,13.2446516 23.1825455,15.2072727 L22.9643636,14.8276364 Z"/>
+      <path fill="url(#brandicon-sns-i)" fill-rule="nonzero" d="M3.91709091,3.63054545 C2.44510998,5.04942656 1.37557206,6.83316084 0.817454545,8.8 L9.60727273,7.69018182 L3.91709091,3.63054545 Z"/>
+      <path fill="#FFCB00" fill-rule="nonzero" d="M0.817454545,8.8 L9.60727273,7.69018182 L9.19272727,7.57963636 L0.866909091,8.624 C0.849454545,8.68072727 0.833454545,8.736 0.817454545,8.8 Z"/>
+      <polygon fill="#FD0" fill-rule="nonzero" points="3.805 3.74 9.187 7.58 9.601 7.683 3.919 3.629"/>
+      <path fill="#FFF8C7" fill-rule="nonzero" d="M3.91709091,3.63054545 C2.44554788,5.04977483 1.37608556,6.83338304 0.817454545,8.8 L1.20436364,8.59054545 C1.76064532,6.8283056 2.74168407,5.22987179 4.06109091,3.936 L3.91709091,3.63054545 Z"/>
+      <path fill="url(#brandicon-sns-j)" fill-rule="nonzero" d="M9.60727273,7.68290909 L3.91709091,3.63054545 C5.38779501,2.21329819 7.20426761,1.20626423 9.18545455,0.709818182 L9.60581818,7.68290909 L9.60727273,7.68290909 Z"/>
+      <path fill="#E53121" fill-rule="nonzero" d="M3.91854545,3.63054545 L9.60727273,7.68290909 L9.43272727,7.36872727 L4.032,3.52145455 C3.99418182,3.55636364 3.95636364,3.59272727 3.91854545,3.63054545 Z M9.03127273,0.750545455 L9.43418182,7.36872727 L9.60727273,7.68290909 L9.18545455,0.709818182 L9.03127273,0.749090909 L9.03127273,0.750545455 Z"/>
+      <path fill="url(#brandicon-sns-k)" fill-rule="nonzero" d="M9.05018182,1.06618182 C7.27335161,1.54926152 5.64022916,2.45616356 4.29090909,3.70909091 L3.91854545,3.63490909 C5.38834581,2.2162974 7.20433443,1.20774918 9.18545455,0.709818182 L9.05018182,1.06618182 Z"/>
+      <path fill="url(#brandicon-sns-l)" fill-rule="nonzero" d="M9.60727273,7.68290909 L9.18545455,0.709818182 C11.1670685,0.213783113 13.2446516,0.250918656 15.2072727,0.817454545 L9.60727273,7.68290909 Z"/>
+      <polygon fill="#1E398E" fill-rule="nonzero" points="9.185 .71 9.606 7.683 9.737 7.277 9.338 .673"/>
+      <polygon fill="#2F2482" fill-rule="nonzero" points="15.2 .817 15.037 .771 9.737 7.277 9.607 7.683 15.207 .817"/>
+      <path fill="url(#brandicon-sns-m)" fill-rule="nonzero" d="M14.8276364,1.03563636 C13.0362977,0.570088016 11.1577794,0.55360102 9.35854545,0.987636364 L9.18545455,0.709818182 C11.1670685,0.213783113 13.2446516,0.250918656 15.2072727,0.817454545 L14.8290909,1.03563636 L14.8276364,1.03563636 Z"/>
+      <path fill="#2B2B85" fill-rule="nonzero" d="M3.63054545,20.0829091 C5.04977483,21.5544521 6.83338304,22.6239144 8.8,23.1825455 L7.69018182,14.3927273 L3.63054545,20.0829091 Z"/>
+      <polygon fill="#24236F" fill-rule="nonzero" points="8.8 23.183 7.69 14.393 7.587 14.807 8.631 23.133"/>
+      <polygon fill="#5B549F" fill-rule="nonzero" points="3.74 20.195 7.58 14.813 7.683 14.399 3.631 20.083 3.74 20.195"/>
+      <path fill="url(#brandicon-sns-n)" fill-rule="nonzero" d="M3.63054545,20.0829091 C5.05008124,21.5543818 6.83353224,22.6242516 8.8,23.184 L8.58909091,22.7956364 C6.82675137,22.2395731 5.2282676,21.2585037 3.93454545,19.9389091 L3.63054545,20.0829091 Z"/>
+      <path fill="url(#brandicon-sns-o)" fill-rule="nonzero" d="M7.68290909,14.3927273 L3.63054545,20.0829091 C2.2138475,18.611799 1.20689958,16.7954816 0.709818182,14.8145455 L7.68290909,14.3927273 Z"/>
+      <polygon fill="#B0AAD4" fill-rule="nonzero" points="3.631 20.083 7.683 14.393 7.369 14.567 3.521 19.968 3.631 20.083"/>
+      <path fill="#DAD8ED" fill-rule="nonzero" d="M0.750545455,14.9687273 L7.36872727,14.5672727 L7.68290909,14.3927273 L0.711272727,14.8145455 C0.722909091,14.8669091 0.736,14.9178182 0.750545455,14.9687273 Z"/>
+      <path fill="url(#brandicon-sns-p)" fill-rule="nonzero" d="M1.06618182,14.9512727 C1.54964001,16.7275191 2.45650913,18.3600832 3.70909091,19.7090909 L3.63490909,20.0814545 C2.21821113,18.6103445 1.21126321,16.7940271 0.714181818,14.8130909 L1.07054545,14.9498182 L1.06618182,14.9512727 Z"/>
+      <path fill="#E53121" fill-rule="nonzero" d="M7.68290909,14.3927273 L0.709818182,14.8145455 C0.215849011,12.8351509 0.252977834,10.7604526 0.817454545,8.8 L7.68290909,14.4 L7.68290909,14.3927273 Z"/>
+      <path fill="#CA2D0A" fill-rule="nonzero" d="M0.709818182,14.8145455 L7.68290909,14.3927273 L7.27709091,14.2632727 L0.673454545,14.6618182 C0.685090909,14.7127273 0.698181818,14.7636364 0.709818182,14.8145455 Z"/>
+      <path fill="#ED6F50" fill-rule="nonzero" d="M0.817454545,8.8 C0.801454545,8.85527273 0.786909091,8.91054545 0.772363636,8.96436364 L7.27709091,14.2705455 L7.68290909,14.4 L0.817454545,8.8 Z M1.03563636,9.17818182 C0.570084679,10.9700133 0.553597935,12.8490025 0.987636364,14.6487273 L0.709818182,14.8218182 C0.213921668,12.8401884 0.251056558,10.7626419 0.817454545,8.8 L1.03563636,9.17672727 L1.03563636,9.17818182 Z"/>
+      <path fill="url(#brandicon-sns-q)" fill-rule="nonzero" d="M20.0829091,20.3694545 C21.5533604,18.952249 22.622745,17.1712794 23.1825455,15.2072727 L14.3927273,16.3170909 L20.0829091,20.3694545 Z"/>
+      <path fill="#7B73B3" fill-rule="nonzero" d="M23.1825455,15.2072727 L14.3927273,16.3170909 L14.8072727,16.4203636 L23.1330909,15.376 C23.1490909,15.3207273 23.1665455,15.264 23.1825455,15.2072727 Z"/>
+      <polygon fill="#D1CEE8" fill-rule="nonzero" points="20.195 20.26 14.813 16.42 14.399 16.317 20.089 20.371 20.201 20.26"/>
+      <path fill="#655EA5" fill-rule="nonzero" d="M20.0829091,20.3709091 C21.553524,18.9532553 22.6229148,17.1717737 23.1825455,15.2072727 L22.7956364,15.4167273 C22.2397371,17.1791416 21.2586447,18.7776629 19.9389091,20.0712727 L20.0843636,20.3621818 L20.0829091,20.3709091 Z"/>
+      <path fill="url(#brandicon-sns-r)" fill-rule="nonzero" d="M14.3927273,16.3170909 L20.0829091,20.3694545 C18.612121,21.7862836 16.7956319,22.7928252 14.8145455,23.2887273 L14.3927273,16.3170909 Z"/>
+      <path fill="#E53121" fill-rule="nonzero" d="M20.0829091,20.3709091 L14.3927273,16.3170909 L14.5672727,16.6312727 L19.968,20.4785455 L20.0829091,20.3709091 Z M14.9687273,23.2494545 L14.5672727,16.6312727 L14.3927273,16.3170909 L14.8145455,23.2901818 L14.9687273,23.2494545 Z"/>
+      <path fill="url(#brandicon-sns-s)" fill-rule="nonzero" d="M14.9512727,22.9338182 C16.7272778,22.449767 18.3597072,21.5429726 19.7090909,20.2909091 L20.0814545,20.3665455 C18.609896,21.7823315 16.7937014,22.7887099 14.8130909,23.2858182 L14.9498182,22.9294545 L14.9512727,22.9338182 Z"/>
+      <path fill="url(#brandicon-sns-t)" fill-rule="nonzero" d="M14.3927273,16.3170909 L14.8145455,23.2887273 C12.8329804,23.7845443 10.7555806,23.7479138 8.79272727,23.1825455 L14.3927273,16.3170909 Z"/>
+      <polygon fill="#F5B0AC" fill-rule="nonzero" points="14.815 23.29 14.393 16.317 14.262 16.723 14.662 23.327"/>
+      <polygon fill="#FAD9D5" fill-rule="nonzero" points="8.8 23.183 8.964 23.229 14.271 16.723 14.4 16.317"/>
+      <path fill="url(#brandicon-sns-u)" fill-rule="nonzero" d="M9.17236364,22.9643636 C10.9636775,23.4296732 12.8420191,23.4466582 14.6414545,23.0138182 L14.816,23.2901818 C12.8343465,23.7858706 10.7568548,23.7487367 8.79418182,23.1825455 L9.17236364,22.9643636 Z"/>
+    </g>
+  </g>
+</svg>
